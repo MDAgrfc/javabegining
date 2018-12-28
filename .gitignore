@@ -2,4 +2,13 @@
 /edu_awt/EduAwtHello/nbproject/private/
 /edu_awt/EduAwtHello/build/
 /VGViewer/nbproject/private/
+<<<<<<< HEAD
 /VGViewer/build/
+=======
+/VGViewer/build/
+/VGViewer/dist/
+/edu_files/EduFiles/nbproject/private/
+/edu_files/EduFiles/build/
+/edu_xml/eduxml/nbproject/private/
+/edu_xml/eduxml/build/
+>>>>>>> upstream/master
